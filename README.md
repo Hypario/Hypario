@@ -14,4 +14,4 @@ J'apprends le C plus en profondeur, étant donné que mon cursus actuelle m'impo
 
 ### 📫 Comment te contacter ?
 
-Tu peux me contacter à l'adresse email `fabien.duterte@ig2i.centralelille.fr` ou alors sur `fabienduterte@mailfence.com`, je serai surement plus réactif sur la 1re étant mon adresse étudiante.
+Tu peux me contacter à l'adresse email `fabien.duterte@ig2i.centralelille.fr` ou alors sur `fabienduterte@mailfence.com`, je serai sûrement plus réactif sur la 1re étant mon adresse étudiante.
