@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-Je m'appelle Fabien, j'ai 21 ans et je suis étudiant à IG2I (centrale lille).
+Je m'appelle Fabien, j'ai 24 ans et je suis étudiant à IG2I (centrale lille).
 J'ai pour passion le développement depuis mes 15 ans, et je continue encore d'en apprendre plus.
 Dans mes projets personnels, j'ai eu l'occasion de faire du PHP, Javascript, C, C++, Rust, C#, Java et plus encore !
 
