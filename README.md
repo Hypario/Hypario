@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-Je m'appelle Fabien, j'ai 24 ans et je suis ingénieur en informatique.
+Je m'appelle Hypario, j'ai 25 ans et je suis ingénieur en informatique.
 J'ai pour passion le développement depuis mes 15 ans, et je continue encore d'en apprendre plus.
 Dans mes projets personnels, j'ai eu l'occasion de faire du PHP, Javascript, C, C++, Rust, C#, Java et plus encore !
 
@@ -11,7 +11,3 @@ Je travaille actuellement sur des petits projet perso, comme un visualisateur d'
 ### 🌱 Tu apprends quoi en ce moment ?
 
 Je reste en veille sur du Javascript, du PHP, et je teste de nouvelles choses en python.
-
-### 📫 Comment te contacter ?
-
-Tu peux me contacter à l'adresse email `fabien.duterte@mailfence.com`.
